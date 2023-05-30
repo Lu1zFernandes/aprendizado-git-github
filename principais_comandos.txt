@@ -1,0 +1,12 @@
+Os que eu lembro são:
+git init: cria um novo repertório 
+git log: mostra as mudanças feitas
+git status: mostra se há mudanças
+code . :abre o code
+git diff: mostra o que mudou nos arquivos
+git add (...) : vai incluir o arquivo selecionado
+git add . : vai incluir todos arquivos
+git commit -m ‘ ’: vai commitar o arquivo que você adicionou
+git commit — amend: vai abrir uma janela para você organizar as mudanças
+git reset HEAD (…) : retirar algo do stage/seleção
+git checkout — (…): retira as mudanças feita no arquivo salvo
